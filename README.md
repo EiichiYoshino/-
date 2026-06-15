@@ -27,7 +27,7 @@ S3へのファイルアップロードをトリガーとしてLambdaを実行し
 
 ## システム構成図
 
-![Architecture](docs/architecture.png)
+![Architecture](architecture.png)
 
 ---
 
