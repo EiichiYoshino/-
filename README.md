@@ -1,4 +1,4 @@
-# AWS Event-Driven Serverless Architecture Hands-on
+# AWS イベント駆動型サーバレス構成図 ハンズオン
 ## AWS認定資格
 
 - AWS Certified Solutions Architect - Associate（取得済）
